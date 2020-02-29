@@ -1,2 +1,2 @@
-# AR-Tawil-Blinds_Master_Bedroom_B1
+# Blinds_Master_Bedroom_B1
 blinds
